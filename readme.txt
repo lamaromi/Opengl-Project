@@ -1,6 +1,3 @@
-	 Assignment 1 Keyboard and Mouse Events 
-
-Demo procedure:
 	Key "1": TORUS_MODE;
 	Key "2": CONE_MODE;
 	Key "3": SPHERE_MODE;
